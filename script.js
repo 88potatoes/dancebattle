@@ -1,5 +1,5 @@
 const canvas = document.querySelector('.canvas');
-const CAN_SIZE = 600;
+const CAN_SIZE = 0.4 * window.innerWidth;
 canvas.height = CAN_SIZE;
 canvas.width = CAN_SIZE;
 
